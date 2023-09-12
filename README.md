@@ -9,5 +9,9 @@
 * ***UI Elements:*** Interface elements such as health bars and remaining ammunition count.
 
 
-https://github.com/Mthndmr16/Clear-The-Building/assets/93436285/92c7b803-9940-4193-b240-a713d24d6e0a
+
+
+https://github.com/Mthndmr16/Clear-The-Building/assets/93436285/e6cc4b93-dd79-4c0a-b81d-cc150f9a8408
+
+
 
