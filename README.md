@@ -1,6 +1,6 @@
 # Clear The Building
 
- A demo project demonstrating basic marksmanship mechanics and game development techniques
+ A demo project demonstrating basic marksmanship mechanics and game development techniques.
  
 ****Features:****
 
